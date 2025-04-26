@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.harshitksinghai</groupId>
-	<artifactId>CodeControl-Server</artifactId>
+	<artifactId>codecontrol-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CodeControl-Server</name>
-	<description>CodeControl-Server</description>
+	<name>codecontrol-backend</name>
+	<description>codecontrol-backend</description>
 	<url/>
 	<licenses>
 		<license/>
